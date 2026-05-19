@@ -1,0 +1,4 @@
+excluded:
+  - DerivedData
+  - .git
+  - Wrimoire.xcodeproj
