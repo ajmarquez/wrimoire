@@ -19,3 +19,9 @@ Wrimoire is being shaped as a focused writing app, taking structural inspiration
 - iCloud sync through CloudKit
 
 The first scaffold uses a macOS-oriented `NavigationSplitView` so the information architecture starts from the desktop experience, while keeping the target layout compatible with iPad and iPhone later.
+
+## Xcode Cloud
+
+Wrimoire is partially prepared for Xcode Cloud with shared schemes and repo-level `ci_scripts/`.
+
+See [XcodeCloud.md](/Users/ajmarquez/Development/wrimoire/XcodeCloud.md:1) for the remaining Apple-side setup steps and the recommended first workflows.
